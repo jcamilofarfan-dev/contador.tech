@@ -1,8 +1,6 @@
 ---
 title: 'Importancia de la Contabilidad, para las Empresas o Personas'
-subtitle: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries.
+subtitle: Primero que nada una breve explicación de que es la contabilidad
 excerpt: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries. The Shrines of Ise have been celebrated as the prototype of
