@@ -4,7 +4,7 @@ has_more_link: true
 more_link_text: Keep reading
 seo:
   title: Sistemas Contables
-  description: The preview of the Fjord theme
+  description: Public Accountant | Developer
   extra:
     - name: 'og:type'
       value: website
