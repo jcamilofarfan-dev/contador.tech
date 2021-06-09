@@ -1,5 +1,5 @@
 ---
-title: Fox Village In Japan
+title: 'Importancia de la Contabilidad, para las Empresas o Personas'
 subtitle: >-
   Apparently, Japan is covered in magical and irresistibly cute animal
   sanctuaries.
