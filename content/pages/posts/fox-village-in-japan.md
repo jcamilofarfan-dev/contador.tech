@@ -2,11 +2,9 @@
 title: 'Importancia de la Contabilidad, para las Empresas o Personas'
 subtitle: Primero que nada una breve explicación de que es la contabilidad
 excerpt: >-
-  Apparently, Japan is covered in magical and irresistibly cute animal
-  sanctuaries. The Shrines of Ise have been celebrated as the prototype of
-  Japanese architecture. Largely of wood, traditional housing and many temple
-  buildings see the use of tatami mats and sliding doors that break down the
-  distinction between rooms and indoor and outdoor space.
+  La contabilidad es una pequeña parte de la economía que se encarga de obtener,
+  ordenar y mostrar la información financiera interna o externa de las empresas,
+  con el fin de tener un control y una acertada toma de decisiones.
 date: '2021-06-09'
 thumb_img_path: images/10.jpg
 thumb_img_alt: A red fox sitting on a meadow
