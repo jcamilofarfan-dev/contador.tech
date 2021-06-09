@@ -25,7 +25,7 @@ export default class Home extends React.Component {
                         <Link href={postUrl}>{title}</Link>
                     </h2>
                     <div className="post-meta">
-                        Published on <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
+                        Publicado el  <time className="published" dateTime={dateTimeAttr}>{formattedDate}</time>
                     </div>
                 </header>
                 {thumbImage && (
